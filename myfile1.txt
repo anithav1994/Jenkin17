@@ -1,3 +1,5 @@
 this is te first text file
 hello good morning 
 welcome to new batch
+hello good night
+good night
